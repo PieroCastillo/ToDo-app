@@ -20,3 +20,5 @@ const taskSchema = new Schema(
     timestamps: true,
   }
 );
+
+export default model("Todo", taskSchema)
