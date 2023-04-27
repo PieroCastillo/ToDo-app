@@ -1,0 +1,32 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+<<<<<<< HEAD
+pnpm-debug.log* 
+=======
+pnpm-debug.log*
+>>>>>>> eef7e04daaf46cf8893fd7beda670cd13c749540
+lerna-debug.log*
+
+node_modules
+dist
+<<<<<<< HEAD
+dist-ssr 
+=======
+dist-ssr
+>>>>>>> eef7e04daaf46cf8893fd7beda670cd13c749540
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
